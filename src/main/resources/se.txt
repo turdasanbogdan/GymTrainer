@@ -1,0 +1,48 @@
+old	low	FS	Calisthetic - Pull-ups Cardio -Running Aerobic -Dead-Lift
+old	low	FH	Calisthetic - Crunch Cardio -Jumping rope Aerobic -Dead-Lift
+old	low	MS	Calisthetic - Lunges Cardio -Jumping Jack Aerobic -Wrist-Curls
+old	low	MH	Calisthetic - Lunges Cardio -Jumping rope Aerobic -Wrist-Curls
+old	high	FS	Calisthetic - Lunges Cardio -Jumping rope Aerobic -Shoulder-Press
+old	high	FH	Calisthetic - Dips Cardio -Jumping Jack Aerobic -Shoulder-Press
+old	high	MS	Calisthetic - Dips Cardio -Jumping Jack Aerobic -Bench-Press
+old	high	MH	Calisthetic - Dips Cardio -Jumping rope Aerobic -Wrist-Curls
+old	obesity	FS	Calisthetic - Lunges Cardio -Jumping rope Aerobic
+old	obestiy	FH	Calisthetic -NOT RECOMMENDED
+old	obestiy	MS	Calisthetic - Dips Cardio -Jumping Jack Aerobic
+old	obestiy	MH	Calisthetic -NOT RECOMMENDED
+old	under	FS	Calisthetic -NOT RECOMMENDED
+old	under	FH	Calisthetic -Shoulder-Press -Bench-Press
+old	under	MS	Calisthetic -NOT RECOMMENDED	NOT RECOMMENDED
+old	under	MH	Calisthetic - -Shoulder-Press  -Wrist-Curls -Bench-Press
+middle	low	FS	Calisthetic - Dips Cardio -Jumping rope Aerobic -Bench-Press
+middle	low	FH	Calisthetic - Dips Cardio -Running Aerobic -Bench-Press
+middle	low	MS	Calisthetic - Pull-ups Cardio -Running Aerobic -Dead-Lift
+middle	low	MH	Calisthetic - Crunch Cardio -Jumping rope Aerobic -Shoulder-Press
+middle	high	FS	Calisthetic - Lunges Cardio -Jumping rope Aerobic -Wrist-Curls
+middle	high	FH	Calisthetic - Squat Cardio -Jumping rope Aerobic -Wrist-Curls
+middle	high	MS	Calisthetic - Dips Cardio -Running Aerobic -Wrist-Curls
+middle	high	MH	Calisthetic - Crunch Cardio -Running Aerobic -Dead-Lift
+middle	obesity	FS	Calisthetic - Lunges Cardio -Jumping rope Aerobic
+middle	obesity	FH	Calisthetic -NOT RECOMMENDED
+middle	obesity	MS	Calisthetic - Dips Cardio -Running Aerobic
+middle	obesity	MH	Calisthetic -NOT RECOMMENDED
+middle	under	FS	Calisthetic -NOT RECOMMENDED
+middle	under	FH	Calisthetic - Squats-Wrist-Curls -Dumbbells
+middle	under	MS	Calisthetic -NOT RECOMMENDED
+middle	under	MH	Calisthetic - Bench-Press -Dead-Lift -Shoulder-Press
+young	low	FS	Calisthetic - Crunch Cardio -Jumping Jack Aerobic -Bench-Press
+young	low	FH	Calisthetic - Squat Cardio -Running Aerobic -Shoulder-Press
+young	low	MS	Calisthetic - Squat Cardio -Jumping Jack Aerobic -Wrist-Curls
+young	low	MH	Calisthetic - Crunch Cardio -Running Aerobic -Shoulder-Press
+young	high	FS	Calisthetic - Squat Cardio -Running Aerobic -Bench-Press
+young	high	FH	Calisthetic - Lunges Cardio -Jumping Jack Aerobic -Dead-Lift
+young	high	MS	Calisthetic - Lunges Cardio -Jumping rope Aerobic -Bench-Press
+young	high	MH	Calisthetic - Lunges Cardio -Running Aerobic -Wrist-Curls
+young	obesity	FS	Calisthetic - Squat Cardio -Running Aerobic -Treadmill
+young	obesity	FH	Calisthetic -NOT RECOMMENDED
+young	obesity	MS	Calisthetic - Squat Cardio -Jumping Jack Aerobic -Treadmill
+young	obesity	MH	Calisthetic -NOT RECOMMENDED
+young	under	FS	Calisthetic -NOT RECOMMENDED
+young	under	FH	Calisthetic -Jumping Jack Aerobic -Dead-Lift-Dumbell
+young	under	MS	Calisthetic -NOT RECOMMENDED
+young	under	MH	Calisthetic -Wrist-Curls-Bench-Press-Dumbell
